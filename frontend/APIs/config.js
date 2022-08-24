@@ -1,1 +1,1 @@
-export const baseUrl = `http://204.48.27.236/api`
+export const baseUrl = `https://massyve-01.herokuapp.com//api`
